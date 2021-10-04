@@ -1,4 +1,6 @@
+#!/usr/bin/env python3
 # BIBLIOTECAS NECESSÁRIAS!!
+# deivite@riseup.net
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions as EC
