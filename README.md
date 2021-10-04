@@ -1,10 +1,10 @@
-# Repositório de Web Scraping com Selenium e Python.
+# Exemplo de Web Scraping com Selenium e Python.
 
 Repositório com um Bot simples que faz busca dentro do Instragran.
 
-- Mandatório.
-WebDrive Chrome, Firefox ou Edge.
-Python 3.
-E obviamente todas as bibliotecas instaladas.
+Mandatório: Fazer o download de algum dos WebDrivers "Chrome, Firefox, Edge". 
+https://selenium-python.readthedocs.io/installation.html#drivers
 
-O Robô se conecta no instagram de forma automatizada, faz uma busca por determinada tag, e faz o download de imagens para o seu host.
+Ter o Python3 instalado e obviamente todas as bibliotecas.
+
+Em suma, o robô se conecta no instagram de forma automatizada, faz uma busca por determinada tag, e faz o download de imagens para o seu host.
